@@ -1,6 +1,13 @@
 # Nyt Tag
-Hovedgaden 40 skal have nyt tag.
+Hovedgaden 40 skal have nyt tag. Indtil videre er der kontaktet 2 firmaer:
+* HK Byg ([#1][i1])
+* Poul Hvidtved ([#2][i2])
 
-Taget er cirka 600 m2 hvilket ifølge jysktagkompagni.dk koster ca 1.5 mill.
+Taget er cirka 600 m2 hvilket ifølge [Jysk Tagkompagni][jt] koster ca 1.5 mill.
 
-Bygningen er bevaringsværdig med høj bevaringsværdi 3, så vi skal ansøge omm tilladelse fra kommunen for at renovere.
+Bygningen er bevaringsværdig med høj bevaringsværdi 3, så vi skal ansøge om [tilladelse fra kommunen][kommunen] for at renovere.
+
+[i1]: https://github.com/julietKiloRomeo/nyt-tag/issues/1
+[i2]: https://github.com/julietKiloRomeo/nyt-tag/issues/2
+[jt]: https://jysktagkompagni.dk
+[kommunen]: https://github.com/julietKiloRomeo/nyt-tag/issues/3
