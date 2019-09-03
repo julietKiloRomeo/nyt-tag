@@ -5,7 +5,7 @@ Hovedgaden 40 skal have nyt tag. Indtil videre er der kontaktet 2 firmaer:
 
 Jydsk Tagteknik er blevet foreslået af Martin. De er ikke blevet kontaktet endnu. ([#4][i4])
 
-Taget er cirka 600 m2 hvilket ifølge [Jysk Tagkompagni][jt] koster ca 1.5 mill.
+Taget er cirka 600 m2 hvilket ifølge [Jysk Tagkompagni][jt] koster ca 1.5 mill. Det er blevet foreslået at beløbet [deles ud i forhold til fordelingsnøglen][betaling].
 
 Bygningen er bevaringsværdig med høj bevaringsværdi 3, så vi skal ansøge om [tilladelse fra kommunen][kommunen] for at renovere.
 
@@ -14,3 +14,4 @@ Bygningen er bevaringsværdig med høj bevaringsværdi 3, så vi skal ansøge om
 [i4]: https://github.com/julietKiloRomeo/nyt-tag/issues/4
 [jt]: https://jysktagkompagni.dk
 [kommunen]: https://github.com/julietKiloRomeo/nyt-tag/issues/3
+[betaling]: https://github.com/julietKiloRomeo/nyt-tag/issues/5
